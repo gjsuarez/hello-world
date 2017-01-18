@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Aye, my name is Gustavo. I live in Chicago,IL. I attend Lane Tech HS.
